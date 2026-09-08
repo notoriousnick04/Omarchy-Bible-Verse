@@ -12,13 +12,13 @@ Daily Bible verse bar widget for [Omarchy](https://omarchy.org). Shows a verse c
 ## Install
 
 ```bash
-omarchy plugin clone https://github.com/yourname/Omarchy-BibleVerse
+omarchy plugin clone https://github.com/notoriousnick04/Omarchy-BibleVerse
 ```
 
 Or manually:
 
 ```bash
-git clone https://github.com/yourname/Omarchy-BibleVerse ~/.config/omarchy/plugins/Omarchy-BibleVerse
+git clone https://github.com/notoriousnick04/Omarchy-BibleVerse ~/.config/omarchy/plugins/Omarchy-BibleVerse
 omarchy-shell shell rescanPlugins
 omarchy plugin enable Omarchy-BibleVerse
 ```
