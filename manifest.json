@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "Omarchy-BibleVerse",
+  "name": "Bible Verse",
+  "version": "1.0.0",
+  "author": "anatolio",
+  "description": "Daily Bible verse for the bar — click to read the full text",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "BarWidget.qml"
+  },
+  "barWidget": {
+    "displayName": "Bible Verse",
+    "description": "Daily Bible verse citation with full text popup",
+    "category": "Lifestyle",
+    "allowMultiple": false
+  }
+}
